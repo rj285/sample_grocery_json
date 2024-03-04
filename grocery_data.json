@@ -1,0 +1,186 @@
+[
+    {
+        "id": 105,
+        "name": "Bread",
+        "uom": "pieces",
+        "price": 30.25,
+        "currency": "INR",
+        "quantity": 40,
+        "weight": 0.5,
+        "normaliz": {
+            "Normalized Price": 25.62,
+            "Normalized Measurement": "pieces"
+        },
+        "variety": "Whole Wheat",
+        "origin": "India",
+        "stock": {
+            "Total Quantity": 60,
+            "Total Weight": 9.98
+        },
+        "brand_name": "Healty Bites",
+        "categories": [
+            "Bakery"
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Tomato",
+        "uom": "Kg",
+        "price": 25.22,
+        "currency": "INR",
+        "quantity": 15,
+        "weight": 0.7,
+        "normaliz": {
+            "Normalized Price": 20.21,
+            "Normalized Measurement": "Kg"
+        },
+        "variety": "Cherry",
+        "origin": "Indian",
+        "stock": {
+            "Total Quantity": 25,
+            "Total Weight": 8.0
+        },
+        "brand_name": "Fresh Produce",
+        "categories": [
+            "Vegetables"
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Rice",
+        "uom": "Kg",
+        "price": 50.25,
+        "currency": "INR",
+        "quantity": 20,
+        "weight": 1.5,
+        "normaliz": {
+            "Normalized Price": 45.23,
+            "Normalized Measurement": "Kg"
+        },
+        "variety": "Basmati",
+        "origin": "India",
+        "stock": {
+            "Total Quantity": 30,
+            "Total Weight": 28.3
+        },
+        "brand_name": "Super Grains",
+        "categories": [
+            "Grains"
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Turmeric Powder",
+        "uom": "Grams",
+        "price": 115.23,
+        "currency": "INR",
+        "quantity": 10,
+        "weight": 0.56,
+        "normaliz": {
+            "Normalized Price": 100.0,
+            "Normalized Measurement": "grams"
+        },
+        "variety": "Special",
+        "origin": "Indian",
+        "stock": {
+            "Total Quantity": 20,
+            "Total Weight": 5.6
+        },
+        "brand_name": "Spice Hub",
+        "categories": [
+            "Spices"
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Mango",
+        "uom": "Kg",
+        "price": 80.25,
+        "currency": "INR",
+        "quantity": 25,
+        "weight": 0.84,
+        "normaliz": {
+            "Normalized Price": 70.56,
+            "Normalized Measurement": "kg"
+        },
+        "variety": "Alphonso",
+        "origin": "India",
+        "stock": {
+            "Total Quantity": 33,
+            "Total Weight": 7.6
+        },
+        "brand_name": "Fruit King",
+        "categories": [
+            "Fruits"
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Paneer",
+        "uom": "Kg",
+        "price": 256.26,
+        "currency": "INR",
+        "quantity": 12,
+        "weight": 0.45,
+        "normaliz": {
+            "Normalized Price": 200.56,
+            "Normalized Measurement": "kg"
+        },
+        "variety": "fresh",
+        "origin": "Indi",
+        "stock": {
+            "Total Quantity": 22,
+            "Total Weight": 8.23
+        },
+        "brand_name": "Dairy Delight",
+        "categories": [
+            "Dairy"
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Toilet Paper",
+        "uom": "Roll",
+        "price": 50.0,
+        "currency": "INR",
+        "quantity": 30,
+        "weight": 0.42,
+        "normaliz": {
+            "Normalized Price": 40.0,
+            "Normalized Measurement": "roll"
+        },
+        "variety": "2ply",
+        "origin": "India",
+        "stock": {
+            "Total Quantity": 40,
+            "Total Weight": 5.26
+        },
+        "brand_name": "Hygiene Plus",
+        "categories": [
+            "House Hold"
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Apples",
+        "uom": "Kg",
+        "price": 122.36,
+        "currency": "INR",
+        "quantity": 25,
+        "weight": 0.66,
+        "normaliz": {
+            "Normalized Price": 101.65,
+            "Normalized Measurement": "kg"
+        },
+        "variety": "Red Delicious",
+        "origin": "India",
+        "stock": {
+            "Total Quantity": 35,
+            "Total Weight": 12.25
+        },
+        "brand_name": "Fruit Bite",
+        "categories": [
+            "Fruits"
+        ]
+    }
+]
